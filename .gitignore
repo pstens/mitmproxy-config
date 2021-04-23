@@ -2,3 +2,4 @@ command_history
 *.pem
 *.cer
 *.p12
+__pycache__
